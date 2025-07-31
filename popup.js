@@ -271,8 +271,8 @@ function getTemperatureForType(summaryType) {
 function getMaxTokensForLength(lengthLevel) {
   const tokenLimits = {
     1: 200,
-    2: 400,
-    3: 600
+    2: 500,
+    3: 1000
   };
   return tokenLimits[lengthLevel] || 400;
 }
