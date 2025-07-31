@@ -47,7 +47,7 @@
 
 **Option A: Using Git (Recommended)**
 ```bash
-git clone https://github.com/Dhruv10122004/SummifyAI.git
+git clone https://github.com/apurvasharan17/SummifyAI.git
 cd SummifyAI
 ```
 
