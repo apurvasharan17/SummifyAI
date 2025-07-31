@@ -260,4 +260,4 @@ If you find this extension helpful, please consider:
 
 ---
 
-**Made with ❤️ by [Dhruv10122004](https://github.com/Dhruv10122004)**
+**Made with ❤️ by [Apurva Sharan](https://github.com/apurvasharan17)**
